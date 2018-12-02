@@ -1,0 +1,3 @@
+temp/*.txt
+.DS_Store
+*.csv.gz
