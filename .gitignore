@@ -1,3 +1,4 @@
 temp/*.txt
 .DS_Store
 *.csv.gz
+.ipynb_checkpoints/*
